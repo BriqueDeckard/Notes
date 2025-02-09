@@ -1,2 +1,0 @@
-# Lisp
-Lisp exercises
